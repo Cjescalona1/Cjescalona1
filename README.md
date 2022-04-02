@@ -20,7 +20,7 @@ here is where all start for me...
 
 I'm a *Spanish* native Speaker and can communicate myself in *English*...
 
-|                Languages   and Tools                               |
+|                |Languages   and Tools |                              |
 |----------------|-------------------------------|-----------------------------|
 |**Javascript** (ES5)|C            |C++            |
 |SQL          | Dart             |    Typescript       |
