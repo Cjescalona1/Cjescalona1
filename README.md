@@ -5,6 +5,7 @@ Hi!  my name is **Carlos Escalona** , but you can call me **CJ**, Im a software 
  
  ## Skills and Abilities 
  I've been working around 7 years on technologies and get some Skills through the time among them:
+ 
  **The basis of web develop** 
  
 ![Javascript](https://img.shields.io/badge/HTML-High-brightgreen)  ![Javascript](https://img.shields.io/badge/CSS-High-brightgreen)  ![Javascript](https://img.shields.io/badge/Javascript-High-brightgreen)
