@@ -1,7 +1,7 @@
 
 # Hello World!
 
-Hi!  my name is Carlos Escalona , but you can call me **CJ**, Im a software developer based on Venezuela, specialized on frontend technologies.
+Hi!  my name is **Carlos Escalona** , but you can call me **CJ**, Im a software developer based on Venezuela, specialized on frontend technologies.
  
  ## Skills and Abilities 
  I've been working around 7 years on technologies and get some Skills through the time among them:
