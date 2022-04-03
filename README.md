@@ -46,6 +46,8 @@ This project is part of my Degree Thesis
 
 [Cibermetrics tool for data recollection](https://tegclient.netlify.app/), Data collection tools
 
+## Curriculum Vitae & Resume
+Download: [CV (spanish)](https://drive.google.com/file/d/1T-b9s-oVd7ttykMOir_9S7ER7_vBkprc/view?usp=sharing) 
 
 ## Contacts 
 You can contact me in any social network , looking for **@Cjescalona1**
