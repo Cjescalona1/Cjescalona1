@@ -33,8 +33,7 @@ I'm a *Spanish* native Speaker and can communicate myself in *English*...
 
 Some projects that i was involved and functional demos
 
-[Webksi Marketplace](https://webksi.com/)  Ecommerce
-
+[Webksi Marketplace](https://webksi.com/)  Ecommerce   
 [Multiporpose NFT site](https://connection.underworldweirdos.com/), NFT multiporpose site    
 [Underworld weirdos mint site](https://mint.underworldweirdos.com/), NFT minting site    
 [Underworld weirdos stake site](https://stake.underworldweirdos.com/), NFT Staking site  
