@@ -14,7 +14,7 @@ here is where all start for me...
 **Javasctipt Libraries and Frameworks**
 
 
-![React Js](https://img.shields.io/badge/ReactJS-High-green) ![Next](https://img.shields.io/badge/Next-High-green) ![Angular](https://img.shields.io/badge/Angular-Low-orange) ![Ionic](https://img.shields.io/badge/Ionic-Low-orange) ![Vue](https://img.shields.io/badge/VUE-Low-orange)
+![React Js](https://img.shields.io/badge/ReactJS-High-green) ![Next](https://img.shields.io/badge/Next-High-green)  ![Node](https://img.shields.io/badge/Node-Mid/Low-yellow)  ![Angular](https://img.shields.io/badge/Angular-Low-orange) ![Ionic](https://img.shields.io/badge/Ionic-Low-orange) ![Vue](https://img.shields.io/badge/VUE-Low-orange)
 
 **Language , Programming Language and Tools** 
 
