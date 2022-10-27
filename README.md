@@ -49,8 +49,10 @@ This project is part of my Degree Thesis
 [Cibermetrics tool for data recollection](https://tegclient.netlify.app/), Data collection tools
 
 ## Curriculum Vitae & Resume
-Download: [CV (spanish)](https://drive.google.com/file/d/1T-b9s-oVd7ttykMOir_9S7ER7_vBkprc/view?usp=sharing) 
-          [CV](https://drive.google.com/file/d/1FProaOxujc_7v49F-p29NemxmQ4kSRmT/view?usp=sharing)  
+ 
+[CV (Spanish)](https://drive.google.com/file/d/1T-b9s-oVd7ttykMOir_9S7ER7_vBkprc/view?usp=sharing)  
+[CV (English)](https://drive.google.com/file/d/1FProaOxujc_7v49F-p29NemxmQ4kSRmT/view?usp=sharing) 
+
 ## Contacts 
 You can contact me in any social network , looking for **@Cjescalona1**
 or Email me  to  **cjescalona1@gmail.com**
