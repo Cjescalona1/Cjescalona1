@@ -38,7 +38,7 @@ Some projects that i was involved and functional demos
 [Underworld weirdos mint site](https://mint.underworldweirdos.com/), NFT minting site    
 [Underworld weirdos stake site](https://stake.underworldweirdos.com/), NFT Staking site  
 [Sinners Playground](https://sinnersplayground.wtf/), NFT staking game   
-[Word Board game](sharp-goldberg-4b537f.netlify.app/), Word Board Game     
+[Word Board game](https://sharp-goldberg-4b537f.netlify.app/), Word Board Game     
 [Hacker News](https://vibrant-hoover-1c5625.netlify.app/), API News Fetching app  
 [Movies catalog](https://cjescalona1.github.io/movies-fe/)  , Movie Catalog  
   
