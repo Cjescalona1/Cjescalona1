@@ -46,7 +46,7 @@ Some projects that i was involved and functional demos
 **HERRAMIENTA DE CIBERMETRÍA PARA LA RECOLECCIÓN DE DATOS**
 This project is part of my Degree Thesis  
 
-[Cibermetrics tool for data recollection](https://tegclient.netlify.app/), Data collection tools
+[Cibermetrics tool for data recollection](https://tegclient.netlify.app/), Data collection tools (avible till twitter api the service police change)
 
 ## Curriculum Vitae & Resume
  
