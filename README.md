@@ -22,11 +22,12 @@ I'm a *Spanish* native Speaker and can communicate myself in *English*...
 
 |                |Languages   and Tools |                              |
 |----------------|-------------------------------|-----------------------------|
-|**Javascript** (ES5)|C            |C++            |
-|SQL          | Dart             |    Typescript       |
-|HTML         | CSS |	GraphQL  	|
-|Ionic | NodeJS  | Express  |
+|**Javascript** (ES5)|HTML         | CSS |
+| ReactJs | Next | Node |
+|expressJs  | Dart             |    Typescript       |
+|	GraphQL  	|  NodeJS  | SQL  |
 |Wordpress | Git/Github/Gitlab/Bitbucket | Good Vibes |
+
   
 
 ## Projects and Demos
