@@ -35,8 +35,8 @@ I'm a *Spanish* native Speaker and can communicate myself in *English*...
 Some projects that i was involved and functional demos
 
 [Webksi Marketplace](https://webksi.com/)  Ecommerce   
-[Multiporpose NFT site](https://connection.underworldweirdos.com/), NFT multiporpose site    
-[Underworld weirdos mint site](https://mint.underworldweirdos.com/), NFT minting site    
+[Multiporpose NFT site](https://cjescalona1.github.io/weirdos-clean/), NFT multiporpose site    
+[Underworld weirdos mint site](https://cjescalona1.github.io/mint-site-v2/), NFT minting site    
 [Underworld weirdos stake site](https://stake.underworldweirdos.com/), NFT Staking site  
 [Sinners Playground](https://sinnersplayground.wtf/), NFT staking game   
 [Word Board game](https://sharp-goldberg-4b537f.netlify.app/), Word Board Game     
