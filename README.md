@@ -36,9 +36,7 @@ Some projects that i was involved and functional demos
 
 [Webksi Marketplace](https://webksi.com/)  Ecommerce   
 [Multiporpose NFT site](https://cjescalona1.github.io/weirdos-clean/), NFT multiporpose site    
-[Underworld weirdos mint site](https://cjescalona1.github.io/mint-site-v2/), NFT minting site    
-[Underworld weirdos stake site](https://stake.underworldweirdos.com/), NFT Staking site  
-[Sinners Playground](https://sinnersplayground.wtf/), NFT staking game   
+[Underworld weirdos mint site](https://cjescalona1.github.io/mint-site-v2/), NFT minting site      
 [Word Board game](https://sharp-goldberg-4b537f.netlify.app/), Word Board Game     
 [Hacker News](https://vibrant-hoover-1c5625.netlify.app/), API News Fetching app  
 [Movies catalog](https://cjescalona1.github.io/movies-fe/)  , Movie Catalog  
